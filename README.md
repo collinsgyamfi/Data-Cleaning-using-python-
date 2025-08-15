@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) with Telecom Data for beginners and  advanced
+# Exploratory Data Analysis (EDA) with students dataset for beginners and  advanced
 
 ## What is EDA?
 Exploratory Data Analysis (EDA) is a fundamental step in the data science process, enabling data scientists to analyze and investigate datasets to summarize their key characteristics, often utilizing data visualization techniques.
